@@ -66,8 +66,6 @@ When I'm not coding, you can find me exploring new hiking trails, playing chess,
 
 ## 🌐 Connect with Me
 
-## Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-naseem-614207319/)
 [![Gmail](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchihakakashi133640@gmail.com)
 
