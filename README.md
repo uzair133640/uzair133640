@@ -62,8 +62,10 @@ When I'm not coding, you can find me exploring new hiking trails, playing chess,
 
 ## 🌐 Connect with Me
 
-🌐 LinkedIn: https://www.linkedin.com/in/muhammad-uzair-naseem-614207319/
-📫 Email: uchihakakashi133640@gmail.com
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-naseem-614207319/)
+[![Gmail](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchihakakashi133640@gmail.com)
 
 
 Thanks for visiting my profile, and feel free to check out my repositories!
