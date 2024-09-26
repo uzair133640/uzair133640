@@ -4,9 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineering major** passionate about building impactful software solutions and continuously learning new technologies. 
 
-🚀 About Me
 Hello! I'm Muhammad Uzair Naseem, a dedicated and enthusiastic Software Engineering student at Bahria University Karachi. With a passion for technology and problem-solving, I am eager to leverage my knowledge and skills to build innovative solutions and contribute to the tech community.
 
 🎓 Education
