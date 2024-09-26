@@ -7,15 +7,15 @@
 
 Hello! I'm Muhammad Uzair Naseem, a dedicated and enthusiastic Software Engineering student at Bahria University Karachi. With a passion for technology and problem-solving, I am eager to leverage my knowledge and skills to build innovative solutions and contribute to the tech community.
 
-🎓 Education
+🎓 **Education :**
 I am currently pursuing my Bachelor's degree in Software Engineering at Bahria University Karachi, where I have been honing my skills in various programming languages, software development methodologies, and computer science principles.
 
-💡 Interests
+💡 **Interests**
 Web Development: Creating dynamic and responsive web applications using the MERN stack (MongoDB, Express.js, React, Node.js).
 Data Structures and Algorithms: Solving complex problems efficiently and optimizing code performance.
 Open Source Contribution: Actively contributing to open-source projects and learning from the global developer community.
 
-🛠️ Skills
+🛠️ **Skills**
 Languages: JavaScript, Python, C++, Java, C#
 Web Technologies: HTML5, CSS3, React, Node.js, Express.js
 Databases: MongoDB, MySQL
@@ -30,11 +30,11 @@ Cloud computing and DevOps practices to enhance my software deployment and maint
 I love collaborating with fellow developers and learning from diverse perspectives. Feel free to reach out if you want to discuss tech, collaborate on a project, or just have a chat about the latest trends in software engineering.
 
 
-🌟 Fun Fact
+🌟 **Fun Fact**
 When I'm not coding, you can find me exploring new hiking trails, playing chess, or experimenting with new recipes in the kitchen!
 
 
-## 🛠️ Technologies & Tools
+## 🛠️** Technologies & Tools**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -54,17 +54,17 @@ When I'm not coding, you can find me exploring new hiking trails, playing chess,
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 **GitHub Stats**
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=uzair133640&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
+## 🔥 **Streak Stats**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uzair133640&theme=radical)
 
 
 
-## 🌐 Connect with Me
+## 🌐 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-naseem-614207319/)
 [![Gmail](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchihakakashi133640@gmail.com)
