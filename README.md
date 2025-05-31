@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzair133640&label=Profile%20views&color=0e75b6&style=flat" alt="uzair133640" /> </p>
 
@@ -82,3 +82,22 @@
 <p align="center">
   <img alt="snake gif" src="https://github.com/uzair133640/uzair133640/blob/output/github-contribution-grid-snake.svg">
 </p>
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.uzair133640 }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+  outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
