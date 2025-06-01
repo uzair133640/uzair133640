@@ -80,7 +80,7 @@
 
 <h3 align="left">🐍 Contribution Snake:</h3>
 <p align="center">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/uzair133640/uzair133640/output/github-contribution-grid-snake.svg">
+  <img alt="snake gif" src="https://github.com/uzair133640/uzair133640/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 
