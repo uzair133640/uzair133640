@@ -83,6 +83,10 @@
   <img alt="snake gif" src="https://github.com/uzair133640/uzair133640/blob/output/github-contribution-grid-snake.svg">
 </p>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 
 🎉 **Enjoy exploring my profile, projects, and playing around with the contribution snake!**
